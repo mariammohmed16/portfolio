@@ -4,7 +4,8 @@ body {
         min-height:100vh;
 }
 nav{
-
+border:20px #4A7FA7 solid;
+background-color:#4A7FA7;
 margin-top:20px;
 font-size:15px;
 }
