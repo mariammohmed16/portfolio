@@ -1,14 +1,7 @@
 body {
 	background-color:#B3CFE5;
 	text-align:center;
-        min-height:100hv;
-}
-@media(max-width:600px){
-	nav{
-		font-size:20px;
-		padding:5px 8px;
-		display:flex;
-	}
+        min-height:100vh;
 }
 nav{
 border: 20PX #4A7FA7 solid;
@@ -91,4 +84,10 @@ input:hover{
 	display:flex;
 	align-items:center;
 	width:90%;
+}
+@media(max-width:600px){
+	nav{font-size:20px;
+	    padding:5px 8px;
+		display:flex;
+	}
 }
