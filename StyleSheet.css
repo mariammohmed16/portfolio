@@ -1,6 +1,7 @@
 body {
 	background-color:#B3CFE5;
 	text-align:center;
+        min-height:100hv;
 }
 @media(max-width:600px){
 	nav{
